@@ -1,9 +1,11 @@
-ul.a {
-  list-style-type: circle;
-}
-p {
-  color:black;
- }
 body {
-  background-color:lightgray;
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  width: 100%;
+}
+h1 {
+  font-size: 32px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: red;
 }
