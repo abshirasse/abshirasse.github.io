@@ -1,6 +1,9 @@
+ul. {
+  list-style-type: circle;
+}
 p {
   color:black;
  }
-background {
-  color:gray
+body {
+  background-color:lightgray;
 }
